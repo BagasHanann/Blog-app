@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Cinta",
+      "body": "Iloveyou",
+      "author": "bagas",
+      "id": 2
+    },
+    {
+      "title": "I love you",
+      "body": "Bagas sayang latriass",
+      "author": "bagas",
+      "id": 3
+    }
+  ]
+}
